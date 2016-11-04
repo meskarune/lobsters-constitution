@@ -44,7 +44,7 @@ Often, these are not necessarily bad, they are just not in the scope of our comm
 	* Similar submission may be merged by mods. Message or comment if you think a submission could be merged.
 	* For discussion stories, consider asking open-ended questions over ones with concrete solutions.
 	* Only flag submissions when they are outside the above topic space--never out of disagreement.
-	* Do use the "suggest" link to fix any title or tag errors you see in a submission.
+	* Use the "suggest" link to fix any title or tag errors you see in a submission.
  
 ### Discussion/commenting guidelines
  
