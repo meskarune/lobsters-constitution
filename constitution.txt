@@ -34,12 +34,12 @@ Often, these are not necessarily bad, they are just not in the scope of our comm
  
 ### Submission guidelines
  
-	* Submissions should be on topic and fit an appropriate tag(s). If a tag doesn't fit, it might not be appropriate to post to Lobsters.
+	* Submissions should be on topic and fit an appropriate tag(s). If no tags fit, it might not be appropriate to post to Lobsters.
 	* Use original titles sans extraneous bits on submissions--leave editorializing to suggestions. For content older than a few years, suffix the title with the year of publication in parens.
 	* Add context to submissions when the context is not clear from the title.
 	* Do not submit spam or low-value articles.
 	* Similar submission may be merged by mods. Message or comment if you think a submission could be merged.
-	* For discussion stories, consider asking open-ended questions over ones with concrete solutions.
+	* For discussion stories, prefer asking open-ended questions over ones with concrete solutions.
 	* Only flag submissions when they are outside the above topic space--never out of disagreement.
 	* Use the "suggest" link to fix any title or tag errors you see in a submission.
  
@@ -47,7 +47,7 @@ Often, these are not necessarily bad, they are just not in the scope of our comm
  
 	* Treat people with respect and assume good faith.
 	* In discussions, providing sources and relevant articles is encouraged.
-	* Don't downvote for mere disagreement. Downvote for uncivil behvior or factual inaccuracy.
+	* Don't downvote for mere disagreement. Downvote for uncivil behavior or factual inaccuracy.
 	* Don't insult others with ad-hominem attacks, slurs, or personal attacks.
 	* Don't harass, intimidate, dox, troll, or spam.
 	* Don't make comments that are racist, sexist, discriminating of sexual orientation, physical or mental disability, gender identity, faith or lack thereof, cultural, national or ethnic identity or origin, or family status.
@@ -125,7 +125,7 @@ Put the rationale for creating the tag, and put links to stories that could use 
  
 ### Does referencing employment information count as doxing?
  
-If a person's employer is relevant to their expertise or contextual background, *and is public knowledge*, it's fair game to bring up.
+If a person's employer is relevant to their expertise or contextual background, *and is public knowledge*, it's fair game to bring it up.
  
 ### How can I judge a potential invitee's reputation?
  
@@ -145,6 +145,7 @@ Contributors (reverse alphabetical order):
  
 	* stip
 	* premysl
+	* petergao
 	* nycatelos
 	* ngoldbaum
 	* meskarune
